@@ -1,0 +1,13 @@
+//import grails.core.*
+//import helloworld.PrintConsoleService
+//import helloworld.PrintDestination
+//import helloworld.PrintService
+//import helloworld.PrintWebService
+
+model {
+    def output
+    def printDestination
+}
+
+println("This is a test to print $output to $printDestination")
+println(output)
