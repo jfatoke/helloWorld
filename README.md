@@ -13,7 +13,7 @@ b. Use configuration files or another industry standard mechanism for determinin
 4. Write unit tests to support the API.
 
 SOLUTION
-This is a Grails application
+This is a Grails application.
 It uses MVC architectural pattern.
 It has two Service interfaces for printing and data retrieval.
 The print destination is set in the configuration file and print to Console is the default.
