@@ -21,6 +21,7 @@ There are also Unit tests for the controller and the two services.
 
 TO RUN
 grails run-app 
+& 
 the API is available on localhost:8080 port
 
 
